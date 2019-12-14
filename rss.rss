@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
 <channel>
@@ -21,13 +20,13 @@
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://github.com/FoolishTalkAndFrenzy/podcast/raw/master/Screenshot_20191208-212750_2.png" />
 <atom:link href="https://raw.githubusercontent.com/FoolishTalkAndFrenzy/podcast/master/rss.rss" rel="self" type="application/rss+xml" />
-<pubDate>Sat, 14 Dec 2019 02:56:16 -0000</pubDate>
+<pubDate>Sat, 14 Dec 2019 03:24:10 -0000</pubDate>
 <title>Foolish Talk and Frenzy</title>
 <itunes:author>Matt &amp; Darby</itunes:author>
 <description>Two friends from the University of Minnesota, Matt and Darby, create a podcast in which they converse at length on a wide variety of topics.</description>
 <itunes:summary>Two friends from the University of Minnesota, Matt and Darby, create a podcast in which they converse at length on a wide variety of topics.</itunes:summary>
 <itunes:subtitle>Matt and Darby intensely vibe.</itunes:subtitle>
-<lastBuildDate>Sat, 14 Dec 2019 02:56:16 -0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Dec 2019 03:24:10 -0000</lastBuildDate>
 <item>
 <title>S0E2:We're Taking This Too Seriously (Pilot Episode)</title>
 <description>After months of restless anticipation, the inaugural episode of the Foolish Talk and Frenzy Podcast has been relesased! Listen to Matt and Darby discuss jam, dreams, and life in this 30-minute audio extravaganza! *This episode is in no way affiliated with the office of Joan Gabel* *If you are a writer for the movie "Weekend at Bernie's"  your discretion is strongly advised*</description>
