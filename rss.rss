@@ -41,7 +41,7 @@ Listen to Matt and Darby discuss jam, dreams, and life in this 30-minute audio e
 *If you are a writer for the movie "Weekend at Bernie's", your discretion is strongly advised*  
 Please give us feedback: https://forms.gle/iHHYCEikCBRnUjtF6</itunes:summary>
 <itunes:subtitle>"We want this to be a good, high quality podcast."</itunes:subtitle>
-<guid>12234</guid>
+<guid isPermaLink="false">12234</guid>
 <enclosure url="https://github.com/FoolishTalkAndFrenzy/podcast/raw/master/episodes/S0E2.mp3" type="audio/mpeg" length="1"/>
 <itunes:duration>0:36:44</itunes:duration>
 <pubDate>Tue, 10 Dec 2019 00:00:00 EST</pubDate>
@@ -60,7 +60,7 @@ Join them as they introduce themselves to “the podcast world”.
 *if you answered the previous google form and asked about sounds, proceed with caution* 
 *if you eat jam with seeds in it, proceed with double caution*</itunes:summary>
 <itunes:subtitle></itunes:subtitle>
-<guid>1001</guid>
+<guid isPermaLink="false">1001</guid>
 <enclosure url="https://github.com/FoolishTalkAndFrenzy/podcast/raw/master/episodes/S1E1.mp3" type="audio/mpeg" length="1"/>
 <itunes:duration>0:33:54</itunes:duration>
 <pubDate>Thu, 19 Dec 2019 14:00:00 CST</pubDate>
