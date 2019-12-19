@@ -15,9 +15,9 @@
 <itunes:name>Matt And Darby</itunes:name>
 <itunes:email>foolishtalkandfrenzy@gmail.com</itunes:email>
 </itunes:owner>
-<itunes:category text="Education">
-<itunes:category text="Higher Education" />
-</itunes:category><itunes:keywords>foolish, talk, frenzy, darby, matt, talking, middlebrook, minnesota, university, umn</itunes:keywords>
+<itunes:category text="Comedy">
+</itunes:category>
+<itunes:keywords>foolish, talk, frenzy, darby, matt, talking, middlebrook, minnesota, university, umn</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://github.com/FoolishTalkAndFrenzy/podcast/raw/master/jam.png" />
 <atom:link href="https://raw.githubusercontent.com/FoolishTalkAndFrenzy/podcast/master/rss.rss" rel="self" type="application/rss+xml" />
