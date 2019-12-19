@@ -19,7 +19,7 @@
 <itunes:category text="Public Radio"></itunes:category>
 <itunes:keywords>foolish, talk, frenzy, darby, matt, talking, middlebrook, minnesota, university, umn</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
-<itunes:image href="https://github.com/FoolishTalkAndFrenzy/podcast/raw/master/Screenshot_20191208-212750_2.png" />
+<itunes:image href="https://github.com/FoolishTalkAndFrenzy/podcast/raw/master/jam.png" />
 <atom:link href="https://raw.githubusercontent.com/FoolishTalkAndFrenzy/podcast/master/rss.rss" rel="self" type="application/rss+xml" />
 <pubDate>Tue, 10 Dec 2019 00:00:00 EST</pubDate>
 <title>Foolish Talk and Frenzy</title>
@@ -27,19 +27,44 @@
 <description>Two friends from the University of Minnesota, Matt and Darby, create a podcast in which they converse at length on a wide variety of topics.</description>
 <itunes:summary>Two friends from the University of Minnesota, Matt and Darby, create a podcast in which they converse at length on a wide variety of topics.</itunes:summary>
 <itunes:subtitle>Matt and Darby intensely vibe.</itunes:subtitle>
-<lastBuildDate>Tue, 10 Dec 2019 00:00:00 EST</lastBuildDate>
+<lastBuildDate>Thu, 19 Dec 2019 14:00:00 CST</lastBuildDate>
 
 <item>
-<title>S0E2: We're taking this too seriously. (Pilot Episode)</title>
+<title>S0E2: We're Taking This Too Seriously (Pilot Episode)</title>
 <description>After months of restless anticipation, we are proud to present the inaugural episode of the Foolish Talk and Frenzy Podcast!
-Listen to Matt and Darby discuss jam, dreams, and life in this 30-minute audio extravaganza! *This episode is in no way affiliated with the office of Joan Gabel* *If you are a writer for the movie "Weekend at Bernie's", your discretion is strongly advised* Please give us feedback: https://forms.gle/iHHYCEikCBRnUjtF6</description>
+Listen to Matt and Darby discuss jam, dreams, and life in this 30-minute audio extravaganza! 
+*This episode is in no way affiliated with the office of Joan Gabel* 
+*If you are a writer for the movie "Weekend at Bernie's", your discretion is strongly advised* 
+Please give us feedback: https://forms.gle/iHHYCEikCBRnUjtF6</description>
 <itunes:summary>After months of restless anticipation, we are proud to present the inaugural episode of the Foolish Talk and Frenzy Podcast!
-Listen to Matt and Darby discuss jam, dreams, and life in this 30-minute audio extravaganza! *This episode is in no way affiliated with the office of Joan Gabel* *If you are a writer for the movie "Weekend at Bernie's", your discretion is strongly advised*  Please give us feedback: https://forms.gle/iHHYCEikCBRnUjtF6</itunes:summary>
+Listen to Matt and Darby discuss jam, dreams, and life in this 30-minute audio extravaganza! 
+*This episode is in no way affiliated with the office of Joan Gabel* 
+*If you are a writer for the movie "Weekend at Bernie's", your discretion is strongly advised*  
+Please give us feedback: https://forms.gle/iHHYCEikCBRnUjtF6</itunes:summary>
 <itunes:subtitle>"We want this to be a good, high quality podcast."</itunes:subtitle>
 <guid>12234</guid>
-<enclosure url="https://github.com/FoolishTalkAndFrenzy/podcast/raw/master/S0E2.mp3" type="audio/mpeg" length="1" />
+<enclosure url="https://github.com/FoolishTalkAndFrenzy/podcast/raw/master/episodes/S0E2.mp3" type="audio/mpeg" length="1"/>
 <itunes:duration>0:36:44</itunes:duration>
 <pubDate>Tue, 10 Dec 2019 00:00:00 EST</pubDate>
+</item>
+
+<item>
+<title>S1E1: A Little Toe Dip in the Pool</title>
+<description>On the premier episode of foolish talk and frenzy, Matt and Darby dive into the world of grocery stores, nails, art philosophy, sound effects, and so much more. 
+They’re not afraid to ask the tough questions, such as “what kinds of sounds are we making?” and “what’s yaws?” 
+Join them as they introduce themselves to “the podcast world”. 
+*if you answered the previous google form and asked about sounds, proceed with caution* 
+*if you eat jam with seeds in it, proceed with double caution*</description>
+<itunes:summary>On the premier episode of foolish talk and frenzy, Matt and Darby dive into the world of grocery stores, nails, art philosophy, sound effects, and so much more. 
+They’re not afraid to ask the tough questions, such as “what kinds of sounds are we making?” and “what’s yaws?” 
+Join them as they introduce themselves to “the podcast world”. 
+*if you answered the previous google form and asked about sounds, proceed with caution* 
+*if you eat jam with seeds in it, proceed with double caution*</itunes:summary>
+<itunes:subtitle></itunes:subtitle>
+<guid>1001</guid>
+<enclosure url="https://github.com/FoolishTalkAndFrenzy/podcast/raw/master/episodes/S1E1.mp3" type="audio/mpeg" length="1"/>
+<itunes:duration>0:33:54</itunes:duration>
+<pubDate>Thu, 19 Dec 2019 14:00:00 CST</pubDate>
 </item>
 
 </channel>
