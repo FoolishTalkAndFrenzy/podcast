@@ -15,7 +15,7 @@
 <itunes:name>Matt And Darby</itunes:name>
 <itunes:email>foolishtalkandfrenzy@gmail.com</itunes:email>
 </itunes:owner>
-<itunes:category>Public Radio</itunes:category>
+<itunes:category text="Comedy" />
 <itunes:keywords>foolish, talk, frenzy, darby, matt, talking, middlebrook, minnesota, university, umn</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://github.com/FoolishTalkAndFrenzy/podcast/raw/master/jam.png" />
