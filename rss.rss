@@ -23,11 +23,11 @@
 <atom:link href="https://raw.githubusercontent.com/FoolishTalkAndFrenzy/podcast/master/rss.rss" rel="self" type="application/rss+xml" />
 <pubDate>Tue, 10 Dec 2019 00:00:00 EST</pubDate>
 <title>Foolish Talk and Frenzy</title>
-<itunes:author>Matt &amp; Darby</itunes:author>
-<description>Two friends from the University of Minnesota, Matt and Darby, create a podcast in which they converse at length on a wide variety of topics.</description>
-<itunes:summary>Two friends from the University of Minnesota, Matt and Darby, create a podcast in which they converse at length on a wide variety of topics.</itunes:summary>
-<itunes:subtitle>Matt and Darby intensely vibe.</itunes:subtitle>
-<lastBuildDate>Thu, 19 Dec 2019 14:00:00 CST</lastBuildDate>
+<itunes:author>Matt &amp; Darby</itunes:author>` 
+<description>Two friends from the University of Minnesota, Matt and Darby, host a podcast in which they converse at length on a wide variety of topics.</description>
+<itunes:summary>Two friends from the University of Minnesota, Matt and Darby, host a podcast in which they converse at length on a wide variety of topics.</itunes:summary>
+<itunes:subtitle>Matt and Darby's vibes abound.</itunes:subtitle>
+<lastBuildDate>Wed, 29 Jan 2019 18:50:00 CST</lastBuildDate>
 
 <item>
 <title>S0E2: We're Taking This Too Seriously (Pilot Episode)</title>
@@ -65,6 +65,25 @@ Join them as they introduce themselves to “the podcast world”.
 <enclosure url="https://github.com/FoolishTalkAndFrenzy/podcast/raw/master/episodes/S1E1.mp3" type="audio/mpeg" length="1"/>
 <itunes:duration>0:33:54</itunes:duration>
 <pubDate>Thu, 19 Dec 2019 14:00:00 CST</pubDate>
+</item>
+
+<item>
+<title>S1E2: Double Shoelace Blowout!</title>
+<description>"Bedtime Stories is a 2008 American fantasy comedy film directed by Adam Shankman and written by Matt Lopez and Tim Herlihy. 
+It stars Adam Sandler in his first appearance in a family-oriented film alongside Keri Russell, Jonathan Morgan Heit, Laura Ann Kesling, 
+Guy Pearce, Aisha Tyler, Russell Brand, Richard Griffiths, Teresa Palmer, Lucy Lawless and Courteney Cox. Sandler's production company Happy Madison and Andrew Gunn's 
+company Gunn Films co-produced the film with Walt Disney Pictures. The film was theatrically released on December 25, 2008 by Walt Disney Pictures. 
+Despite receiving generally negative reviews from critics, it was a box office success after earning $212.9 million against an $80 million budget." Wikipedia, the Free encyclopedia.</description>
+<itunes:summary>"Bedtime Stories is a 2008 American fantasy comedy film directed by Adam Shankman and written by Matt Lopez and Tim Herlihy. 
+It stars Adam Sandler in his first appearance in a family-oriented film alongside Keri Russell, Jonathan Morgan Heit, Laura Ann Kesling, 
+Guy Pearce, Aisha Tyler, Russell Brand, Richard Griffiths, Teresa Palmer, Lucy Lawless and Courteney Cox. Sandler's production company Happy Madison and Andrew Gunn's 
+company Gunn Films co-produced the film with Walt Disney Pictures. The film was theatrically released on December 25, 2008 by Walt Disney Pictures. 
+Despite receiving generally negative reviews from critics, it was a box office success after earning $212.9 million against an $80 million budget." Wikipedia, the Free encyclopedia.</itunes:summary>
+<itunes:subtitle>How many times can you see Cats?</itunes:subtitle>
+<guid isPermaLink="false">1002</guid>
+<enclosure url="https://github.com/FoolishTalkAndFrenzy/podcast/raw/master/episodes/S1E2.mp3" type="audio/mpeg" length="1"/>
+<itunes:duration>0:28:11</itunes:duration>
+<pubDate>Wed, 29 Jan 2020 18:50:00 CST</pubDate>
 </item>
 
 </channel>
