@@ -27,7 +27,7 @@
 <description>Two friends from the University of Minnesota, Matt and Darby, host a podcast in which they converse at length on a wide variety of topics.</description>
 <itunes:summary>Two friends from the University of Minnesota, Matt and Darby, host a podcast in which they converse at length on a wide variety of topics.</itunes:summary>
 <itunes:subtitle>Matt and Darby's vibes abound.</itunes:subtitle>
-<lastBuildDate>Wed, 05 Feb 2019 23:20:00 CST</lastBuildDate>
+<lastBuildDate>Wed, 12 Feb 2019 00:00:00 CST</lastBuildDate>
 
 <item>
 <title>S0E2: We're Taking This Too Seriously (Pilot Episode)</title>
@@ -90,15 +90,28 @@ Despite receiving generally negative reviews from critics, it was a box office s
 <item>
 <title>S1E3: A Cul-De-Sac in the Lives of Matt and Darby</title>
 <description>Join us for some intense meta-discussion on podcasts on this episode of the Foolish Talk and Frenzy podcast! If you enjoyed the episode, 
-or if you did not enjoy the episode, lease send us an email at foolishtalkandfrenzy@gmail.com! *warning: abundant and frequent Darby cackling* Hi, mom!</description>
+or if you did not enjoy the episode, please send us an email at foolishtalkandfrenzy@gmail.com! *warning: abundant Darby cackling* Hi, mom!</description>
 <itunes:summary>Join us for some intense meta-discussion on podcasts on this episode of the Foolish Talk and Frenzy podcast! If you enjoyed the episode, 
-or if you did not enjoy the episode, lease send us an email at foolishtalkandfrenzy@gmail.com! *warning: abundant and frequent Darby cackling* Hi, mom!</itunes:summary>
-<itunes:subtitle>In which Darby breaks the Cinnamon Toast Crunch dispenser.</itunes:subtitle>
+or if you did not enjoy the episode, please send us an email at foolishtalkandfrenzy@gmail.com! *warning: abundant Darby cackling* Hi, mom!</itunes:summary>
+<itunes:subtitle>In which Darby leaves Cinnamon Toast Crunch below the dispenser.</itunes:subtitle>
 <guid isPermaLink="false">1003</guid>
 <enclosure url="https://github.com/FoolishTalkAndFrenzy/podcast/raw/master/episodes/S1E3.mp3" type="audio/mpeg" length="1"/>
 <itunes:duration>0:33:09</itunes:duration>
 <pubDate>Wed, 05 Feb 2020 23:20:00 CST</pubDate>
 </item>
 
+
+<item>
+<title>S1E4: You're a Tour Guide Now!</title>
+<description>Matt and official University of Minnesota tour guide Darby give a mock tour of the campus buildings. *warning: controversial building ratings ahead* 
+To voice your opinion on these ratings, please send an email to foolishtalkandfernzy@gmail.com! Thank you for listening! Love you mom!</description>
+<itunes:summary>Matt and official University of Minnesota tour guide Darby give a mock tour of the campus buildings. *warning: controversial building ratings ahead* 
+To voice your opinion on these ratings, please send an email to foolishtalkandfernzy@gmail.com! Thank you for listening! Love you mom!</itunes:summary>
+<itunes:subtitle>In which Darby claims Walter Library is overrated.<subtitle>
+<guid isPermaLink="false">1004</guid>
+<enclosure url="https://github.com/FoolishTalkAndFrenzy/podcast/raw/master/episodes/S1E4.mp3" type="audio/mpeg" length="1"/>
+<itunes:duration>0:33:33</itunes:duration>
+<pubDate>Wed, 12 Feb 2020 00:00:00 CST</pubDate>
+</item>
 </channel>
 </rss>
