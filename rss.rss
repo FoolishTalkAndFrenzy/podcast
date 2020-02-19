@@ -3,7 +3,7 @@
 <channel>
 <link>https://www.youtube.com/watch?v=k55FYtqtXXU</link>
 <language>en-us</language>
-<copyright>&#xA9;2019</copyright>
+<copyright>&#xA9;2020</copyright>
 <webMaster>foolishtalkandfrenzy@gmail.com</webMaster>
 <managingEditor>foolishtalkandfrenzy@gmail.com</managingEditor>
 <image>
@@ -27,7 +27,7 @@
 <description>Two friends from the University of Minnesota, Matt and Darby, host a podcast in which they converse at length on a wide variety of topics.</description>
 <itunes:summary>Two friends from the University of Minnesota, Matt and Darby, host a podcast in which they converse at length on a wide variety of topics.</itunes:summary>
 <itunes:subtitle>Matt and Darby's vibes abound.</itunes:subtitle>
-<lastBuildDate>Wed, 12 Feb 2019 00:00:00 CST</lastBuildDate>
+<lastBuildDate>Wed, 19 Feb 2019 00:00:00 CST</lastBuildDate>
 
 <item>
 <title>S0E2: We're Taking This Too Seriously (Pilot Episode)</title>
@@ -113,5 +113,23 @@ To voice your opinion on these ratings, please send an email to foolishtalkandfe
 <itunes:duration>0:33:33</itunes:duration>
 <pubDate>Wed, 12 Feb 2020 00:00:00 CST</pubDate>
 </item>
+
+
+<item>
+<title>S1E5: Manufacturing Artificial Struggle</title>
+<description>This week, Matt and Darby are getting places, whether by bus, light rail, plane, or people mover! In this LocoMotion-themed episode, your hosts
+share anecdotes about the interesting ways they've gotten from point A to point B. Feeling inspired by transportation? Transport your thoughts over the Internet by sending an
+email to foolishtalkandfernzy@gmail.com or by leaving us a review on Apple Podcasts!</description>
+<itunes:summary>This week, Matt and Darby are getting places, whether by bus, light rail, plane, or people mover! In this LocoMotion-themed episode, your hosts
+share anecdotes about the interesting ways they've gotten from point A to point B. Feeling inspired by transportation? Transport your thoughts over the Internet by sending an
+email to foolishtalkandfernzy@gmail.com or by leaving us a review on Apple Podcasts!</itunes:summary>
+<itunes:subtitle>The episode that never loses its direction.</itunes:subtitle>
+<guid isPermaLink="false">1005</guid>
+<enclosure url="https://github.com/FoolishTalkAndFrenzy/podcast/raw/master/episodes/S1E5.mp3" type="audio/mpeg" length="1"/>
+<itunes:duration>0:35:10</itunes:duration>
+<pubDate>Wed, 19 Feb 2020 00:00:00 CST</pubDate>
+</item>
+
+
 </channel>
 </rss>
