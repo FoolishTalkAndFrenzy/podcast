@@ -12,7 +12,7 @@
 <link>https://www.youtube.com/watch?v=k55FYtqtXXU</link>
 </image>
 <itunes:owner>
-<itunes:name>Matt And Darby</itunes:name>
+<itunes:name>Matt and Darby</itunes:name>
 <itunes:email>foolishtalkandfrenzy@gmail.com</itunes:email>
 </itunes:owner>
 <itunes:category text="Comedy">
@@ -27,7 +27,7 @@
 <description>Two friends from the University of Minnesota, Matt and Darby, host a podcast in which they converse at length on a wide variety of topics.</description>
 <itunes:summary>Two friends from the University of Minnesota, Matt and Darby, host a podcast in which they converse at length on a wide variety of topics.</itunes:summary>
 <itunes:subtitle>Matt and Darby's vibes abound.</itunes:subtitle>
-<lastBuildDate>Wed, 19 Feb 2019 00:00:00 CST</lastBuildDate>
+<lastBuildDate>Wed, 26 Feb 2019 00:00:00 CST</lastBuildDate>
 
 <item>
 <title>S0E2: We're Taking This Too Seriously (Pilot Episode)</title>
@@ -130,6 +130,20 @@ email to foolishtalkandfrenzy@gmail.com or by leaving us a review on Apple Podca
 <pubDate>Wed, 19 Feb 2020 00:00:00 CST</pubDate>
 </item>
 
+<item>
+<title>S1E6: Clothes, Open!</title>
+<description>Finding yourself in need of fashion advice by the two most fashionable people you know? Look no further than this weeks's episode of the Foolish Talk
+and Frenzy podcast in which your hosts, Matt and Darby, talk about clothes, outfits, accessories, ensembles, and so much more! *warning: Matt does his laundry* Questions? Concerns? Good jokes? Email us
+at foolishtalkandfrenzy@gmail.com!</description>
+<itunes:summary>Finding yourself in need of fashion advice by the two most fashionable people you know? Look no further than this weeks's episode of the Foolish Talk
+and Frenzy podcast in which your hosts, Matt and Darby, talk about clothes, outfits, accessories, ensembles, and so much more! *warning: Matt does his laundry* Questions? Concerns? Good jokes? Email us
+at foolishtalkandfrenzy@gmail.com! Matt's recommended listening: https://soundcloud.com/malik-khadar/avocado-toast</itunes:summary>
+<itunes:subtitle>WAMWAMWAMWAMWAMWAMWAMWAMWAMWAM</itunes:subtitle>
+<guid isPermaLink="false">1006</guid>
+<enclosure url="https://github.com/FoolishTalkAndFrenzy/podcast/raw/master/episodes/S1E6.mp3" type="audio/mpeg" length="1"/>
+<itunes:duration>0:34:34</itunes:duration>
+<pubDate>Wed, 26 Feb 2020 00:00:00 </pubDate>
+</item>
 
 </channel>
 </rss>
