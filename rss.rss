@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
 <channel>
-<link>https://www.youtube.com/watch?v=k55FYtqtXXU</link>
+<link>https://foolishtalkandfrenzy.github.io/</link>
 <language>en-us</language>
 <copyright>&#xA9;2020</copyright>
 <webMaster>foolishtalkandfrenzy@gmail.com</webMaster>
@@ -24,10 +24,10 @@
 <pubDate>Tue, 10 Dec 2019 00:00:00 EST</pubDate>
 <title>Foolish Talk and Frenzy</title>
 <itunes:author>Matt &amp; Darby</itunes:author>
-<description>Two friends from the University of Minnesota, Matt and Darby, host a podcast in which they converse at length on a wide variety of topics.</description>
+<description>Two friends from the University of Minnesota Twin-Cities, Matt and Darby, host a podcast in which they converse at length on a wide variety of topics.</description>
 <itunes:summary>Two friends from the University of Minnesota, Matt and Darby, host a podcast in which they converse at length on a wide variety of topics.</itunes:summary>
 <itunes:subtitle>Matt and Darby's vibes abound.</itunes:subtitle>
-<lastBuildDate>Tue, 10 Mar 2020 00:00:00 CST</lastBuildDate>
+<lastBuildDate>Tue, 24 Mar 2020 00:00:00 CST</lastBuildDate>
 
 <item>
 <title>S0E2: We're Taking This Too Seriously (Pilot Episode)</title>
@@ -165,11 +165,24 @@ Tangents include Middlebrook crickets, Matt's funeral, Diary of a Wimpy Kid, and
 advice, cyclists, memes, and more! Send us an email at foolishtalkandfrenzy@gmail.com.</description>
 <itunes:summary>Hop on board an audio cruise of infectious fun, quarentine yourself for the next 36 minutes while you hear your favorite cohosts Matt and Darby talk about spring break, time off, 
 advice, cyclists, memes, and more! Send us an email at foolishtalkandfrenzy@gmail.com.</itunes:summary>
-<itunes:subtitle>The coronavirus hasn't got us yet.</itunes:subtitle>
+<itunes:subtitle>Stay healthy, everyone!</itunes:subtitle>
 <guid isPermaLink="false">1008</guid>
 <enclosure url="https://github.com/FoolishTalkAndFrenzy/podcast/raw/master/episodes/S1E8.mp3" type="audio/mpeg" length="1"/>
 <itunes:duration>0:36:26</itunes:duration>
 <pubDate>Tue, 10 Mar 2020 00:00:00 CST</pubDate>
+</item>
+
+<item>
+<title>S1E9: Life's a Little Funky Right Now</title>
+<description>Fear not, the Foolish Talk and Frenzy Podcast continues! Amidst the current goings-on in the world, relax by listening to Matt and Darby converse.
+Stay safe and healthy! Tell us how you're spending your time now by emailing us at foolishtalkandfrenzy@gmail.com!</description>
+<itunes:summary>Fear not, the Foolish Talk and Frenzy Podcast continues! Amidst the current goings-on in the world, relax by listening to Matt and Darby converse.
+Stay safe and healthy! Tell us how you're spending your time now by emailing us at foolishtalkandfrenzy@gmail.com!</itunes:summary>
+<itunes:subtitle>Feenage Tutant Ninja Turtles.</itunes:subtitle>
+<guid isPermaLink="false">1009</guid>
+<enclosure url="https://github.com/FoolishTalkAndFrenzy/podcast/raw/master/episodes/S1E9.mp3" type="audio/mpeg" length="1"/>
+<itunes:duration>0:37:56</itunes:duration>
+<pubDate>Tue, 24 Mar 2020 00:00:00 CST</pubDate>
 </item>
 
 </channel>
