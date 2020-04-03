@@ -27,7 +27,7 @@
 <description>Two friends from the University of Minnesota Twin-Cities, Matt and Darby, host a podcast in which they converse at length on a wide variety of topics.</description>
 <itunes:summary>Two friends from the University of Minnesota, Matt and Darby, host a podcast in which they converse at length on a wide variety of topics.</itunes:summary>
 <itunes:subtitle>Matt and Darby's vibes abound.</itunes:subtitle>
-<lastBuildDate>Tue, 24 Mar 2020 00:00:00 CST</lastBuildDate>
+<lastBuildDate>Fri, 03 Apr 2020 00:00:00 CST</lastBuildDate>
 
 <item>
 <title>S0E2: We're Taking This Too Seriously (Pilot Episode)</title>
@@ -183,6 +183,19 @@ Stay safe and healthy! Tell us how you're spending your time now by emailing us 
 <enclosure url="https://github.com/FoolishTalkAndFrenzy/podcast/raw/master/episodes/S1E9.mp3" type="audio/mpeg" length="1"/>
 <itunes:duration>0:37:56</itunes:duration>
 <pubDate>Tue, 24 Mar 2020 00:00:00 CST</pubDate>
+</item>
+
+<item>
+<title>S1E10: Crazy Time in 1022</title>
+<description>Snack on some sound bites from your two favourite podcast hosts, Matt and Darby! This week, Girl Scout cookies, Pringles, 
+salt and vinegar chips, goldfish, Cheez-Its, really spicy hot sauce, burnt popcorn, labneh, and apples are all on the table for our hosts to chew over!</description>
+<itunes:summary>Snack on some sound bites from your two favourite podcast hosts, Matt and Darby! This week, Girl Scout cookies, Pringles, 
+salt and vinegar chips, goldfish, Cheez-Its, really spicy hot sauce, burnt popcorn, labneh, and apples are all on the table for our hosts to chew over!</itunes:summary>
+<itunes:subtitle>Dwelling on Snack Foods.</itunes:subtitle>
+<guid isPermaLink="false">1010</guid>
+<enclosure url="https://github.com/FoolishTalkAndFrenzy/podcast/raw/master/episodes/S1E9.mp3" type="audio/mpeg" length="1"/>
+<itunes:duration>0:30:38</itunes:duration>
+<pubDate>Fri, 03 Apr 2020 00:00:00 CST</pubDate>
 </item>
 
 </channel>
