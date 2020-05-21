@@ -27,7 +27,7 @@
 <description>Two friends from the University of Minnesota Twin-Cities, Matt and Darby, host a podcast in which they converse at length on a wide variety of topics.</description>
 <itunes:summary>Two friends from the University of Minnesota Twin-Cities, Matt and Darby, host a podcast in which they converse at length on a wide variety of topics.</itunes:summary>
 <itunes:subtitle>Matt and Darby's vibes abound.</itunes:subtitle>
-<lastBuildDate>Tue, 12 May 2020 00:00:00 CST</lastBuildDate>
+<lastBuildDate>Thu, 21 May 2020 00:00:00 CST</lastBuildDate>
 
 <item>
 <title>S0E2: We're Taking This Too Seriously (Pilot Episode)</title>
@@ -227,6 +227,17 @@ Stay safe and healthy! Tell us how you're spending your time now by emailing us 
 <enclosure url="https://github.com/FoolishTalkAndFrenzy/podcast/raw/master/episodes/S1E13.mp3" type="audio/mpeg" length="1"/>
 <itunes:duration>0:34:58</itunes:duration>
 <pubDate>Tue, 12 May 2020 00:00:00 CST</pubDate>
+</item>
+
+<item>
+<title>S1E14: Subs, Soup, and Teachers</title>
+<description>Now that school's out for the summer, re-immerse yourself in the world of education as Matt and Darby discuss their school experiences, educational or otherwise.</description>
+<itunes:summary>Now that school's out for the summer, re-immerse yourself in the world of education as Matt and Darby discuss their school experiences, educational or otherwise.</itunes:summary>
+<itunes:subtitle>Matt and Darby are in da haus.</itunes:subtitle>
+<guid isPermaLink="false">1014</guid>
+<enclosure url="https://github.com/FoolishTalkAndFrenzy/podcast/raw/master/episodes/S1E14.mp3" type="audio/mpeg" length="1"/>
+<itunes:duration>0:34:11</itunes:duration>
+<pubDate>Thu, 21 May 2020 00:00:00 CST</pubDate>
 </item>
 
 </channel>
