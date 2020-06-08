@@ -262,5 +262,16 @@ Stay safe and healthy! Tell us how you're spending your time now by emailing us 
 <pubDate>Fri, 05 Jun 2020 00:00:00 CST</pubDate>
 </item>
 
+<item>
+<title>BONUS EPISODE: Matt's Alone S1E1</title>
+<description>In this released Patreon exculsive, Matt reflects on life, death, and bugs.</description>
+<itunes:summary>In this released Patreon exculsive, Matt reflects on life, death, and bugs.</itunes:summary>
+<itunes:subtitle></itunes:subtitle>
+<guid isPermaLink="false">11001</guid>
+<enclosure url="https://github.com/FoolishTalkAndFrenzy/podcast/raw/master/episodes/MattAloneS1E1.mp3" type="audio/mpeg" length="1"/>
+<itunes:duration>0:01:38</itunes:duration>
+<pubDate>Mon, 08 Jun 2020 00:00:00 CST</pubDate>
+</item>
+
 </channel>
 </rss>
