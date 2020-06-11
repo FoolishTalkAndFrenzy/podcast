@@ -27,7 +27,7 @@
 <description>Two friends from the University of Minnesota Twin-Cities, Matt and Darby, host a podcast in which they converse at length on a wide variety of topics.</description>
 <itunes:summary>Two friends from the University of Minnesota Twin-Cities, Matt and Darby, host a podcast in which they converse at length on a wide variety of topics.</itunes:summary>
 <itunes:subtitle>Matt and Darby's vibes abound.</itunes:subtitle>
-<lastBuildDate>Fri, 05 Jun 2020 00:00:00 CST</lastBuildDate>
+<lastBuildDate>Thu, 11 Jun 2020 00:00:00 CST</lastBuildDate>
 
 <item>
 <title>S0E2: We're Taking This Too Seriously (Pilot Episode)</title>
@@ -255,7 +255,7 @@ Stay safe and healthy! Tell us how you're spending your time now by emailing us 
 <title>S1E16: That's the Power of Jazz</title>
 <description>This week, Matt and Darby talk about classic literature, such as the Diary of a Wimpy Kid series. *Fletcher, if you're listening, please tell us the truth*</description>
 <itunes:summary>This week, Matt and Darby talk about classic literature, such as the Diary of a Wimpy Kid series. *Fletcher, if you're listening, please tell us the truth*</itunes:summary>
-<itunes:subtitle>How much does Matt owe the Hennipen County Library systen?</itunes:subtitle>
+<itunes:subtitle>How much does Matt owe the Hennipen County Library system?</itunes:subtitle>
 <guid isPermaLink="false">1016</guid>
 <enclosure url="https://github.com/FoolishTalkAndFrenzy/podcast/raw/master/episodes/S1E16.mp3" type="audio/mpeg" length="1"/>
 <itunes:duration>0:29:06</itunes:duration>
@@ -271,6 +271,17 @@ Stay safe and healthy! Tell us how you're spending your time now by emailing us 
 <enclosure url="https://github.com/FoolishTalkAndFrenzy/podcast/raw/master/episodes/MattAloneS1E1.mp3" type="audio/mpeg" length="1"/>
 <itunes:duration>0:01:38</itunes:duration>
 <pubDate>Mon, 08 Jun 2020 00:00:00 CST</pubDate>
+</item>
+
+<item>
+<title>S1E17: The Podcast of Disagreements</title>
+<description>Join us this week as Matt and Darby fail to come to a consensus on liquids with an artifically elevated temperature.</description>
+<itunes:summary>Join us this week as Matt and Darby fail to come to a consensus on liquids with an artifically elevated temperature.</itunes:summary>
+<itunes:subtitle>In which it is discovered that Darby has synesthesia.</itunes:subtitle>
+<guid isPermaLink="false">1017</guid>
+<enclosure url="https://github.com/FoolishTalkAndFrenzy/podcast/raw/master/episodes/S1E17.mp3" type="audio/mpeg" length="1"/>
+<itunes:duration>0:30:32</itunes:duration>
+<pubDate>Thu, 11 Jun 2020 00:00:00 CST</pubDate>
 </item>
 
 </channel>
