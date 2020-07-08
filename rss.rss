@@ -27,7 +27,7 @@
 <description>Two friends from the University of Minnesota Twin-Cities, Matt and Darby, host a podcast in which they converse at length on a wide variety of topics.</description>
 <itunes:summary>Two friends from the University of Minnesota Twin-Cities, Matt and Darby, host a podcast in which they converse at length on a wide variety of topics.</itunes:summary>
 <itunes:subtitle>Matt and Darby's vibes abound.</itunes:subtitle>
-<lastBuildDate>Wed, 01 Jul 2020 00:00:00 CST</lastBuildDate>
+<lastBuildDate>Tue, 07 Jul 2020 00:00:00 CST</lastBuildDate>
 
 <item>
 <title>S0E2: We're Taking This Too Seriously (Pilot Episode)</title>
@@ -315,6 +315,17 @@ Stay safe and healthy! Tell us how you're spending your time now by emailing us 
 <enclosure url="https://github.com/FoolishTalkAndFrenzy/podcast/raw/master/episodes/S1E20.mp3" type="audio/mpeg" length="1"/>
 <itunes:duration>0:34:24</itunes:duration>
 <pubDate>Wed, 01 Jul 2020 00:00:00 CST</pubDate>
+</item>
+
+<item>
+<title>S1E21: The Wildest West</title>
+<description>This week, Matt chooses to send our co-hosts on a wild journey in, you guessed it, the west. Email us at foolishtalkandfrenzy@gmail.com. Please.</description>
+<itunes:summary>This week, Matt chooses to send our co-hosts on a wild journey in, you guessed it, the west. Email us at foolishtalkandfrenzy@gmail.com. Please.</itunes:summary>
+<itunes:subtitle>Ba na naaaa! Wow wow woooooow.</itunes:subtitle>
+<guid isPermaLink="false">1021</guid>
+<enclosure url="https://github.com/FoolishTalkAndFrenzy/podcast/raw/master/episodes/S1E21.mp3" type="audio/mpeg" length="1"/>
+<itunes:duration>0:33:07</itunes:duration>
+<pubDate>Tue, 07 Jul 2020 00:00:00 CST</pubDate>
 </item>
 
 </channel>
