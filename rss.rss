@@ -27,7 +27,7 @@
 <description>Two friends from the University of Minnesota Twin-Cities, Matt and Darby, host a podcast in which they converse at length on a wide variety of topics.</description>
 <itunes:summary>Two friends from the University of Minnesota Twin-Cities, Matt and Darby, host a podcast in which they converse at length on a wide variety of topics.</itunes:summary>
 <itunes:subtitle>Matt and Darby's vibes abound.</itunes:subtitle>
-<lastBuildDate>Wed, 15 Jul 2020 00:00:00 CST</lastBuildDate>
+<lastBuildDate>Wed, 22 Jul 2020 00:00:00 CST</lastBuildDate>
 
 <item>
 <title>S0E2: We're Taking This Too Seriously (Pilot Episode)</title>
@@ -337,6 +337,17 @@ Stay safe and healthy! Tell us how you're spending your time now by emailing us 
 <enclosure url="https://github.com/FoolishTalkAndFrenzy/podcast/raw/master/episodes/S1E22.mp3" type="audio/mpeg" length="1"/>
 <itunes:duration>0:29:31</itunes:duration>
 <pubDate>Wed, 15 Jul 2020 00:00:00 CST</pubDate>
+</item>
+
+<item>
+<title>S1E23: The Matt and Darby Days, Part 1</title>
+<description>Matt and Darby reunite for an episode recorded in the same room!</description>
+<itunes:summary>Matt and Darby reunite for an episode recorded in the same room!</itunes:summary>
+<itunes:subtitle>*grunt noises*</itunes:subtitle>
+<guid isPermaLink="false">10231</guid>
+<enclosure url="https://github.com/FoolishTalkAndFrenzy/podcast/raw/master/episodes/S1E23P1.mp3" type="audio/mpeg" length="1"/>
+<itunes:duration>0:32:01</itunes:duration>
+<pubDate>Wed, 22 Jul 2020 00:00:00 CST</pubDate>
 </item>
 
 </channel>
