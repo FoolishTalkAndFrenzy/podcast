@@ -27,7 +27,7 @@
 <description>Two friends from the University of Minnesota Twin-Cities, Matt and Darby, host a podcast in which they converse at length on a wide variety of topics.</description>
 <itunes:summary>Two friends from the University of Minnesota Twin-Cities, Matt and Darby, host a podcast in which they converse at length on a wide variety of topics.</itunes:summary>
 <itunes:subtitle>Matt and Darby's vibes abound.</itunes:subtitle>
-<lastBuildDate>Sat, 26 Sep 2020 00:00:00 CST</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2020 00:00:00 CST</lastBuildDate>
 
 <item>
 <title>S0E2: We're Taking This Too Seriously (Pilot Episode)</title>
@@ -431,11 +431,22 @@ Stay safe and healthy! Tell us how you're spending your time now by emailing us 
 <title>S2E2: 😈</title>
 <description>Villanry: for it or against it, it's a fascinating topic that has been so far overlooked by the Foolish Talk and Frenzy podcast. Well, no more!</description>
 <itunes:summary>Villanry: for it or against it, it's a fascinating topic that has been so far overlooked by the Foolish Talk and Frenzy podcast. Well, no more!</itunes:summary>
-<itunes:subtitle>Yeah, baby</itunes:subtitle>
+<itunes:subtitle>Yeah, baby!</itunes:subtitle>
 <guid isPermaLink="false">2002</guid>
 <enclosure url="https://github.com/FoolishTalkAndFrenzy/podcast/raw/master/episodes/S2E2.mp3" type="audio/mpeg" length="1"/>
 <itunes:duration>0:33:26</itunes:duration>
 <pubDate>Sat, 26 Sep 2020 00:00:00 CST</pubDate>
+</item>
+
+<item>
+<title>S2E3: The Whole Al Capone Thing</title>
+<description>You'll want to sit down for this: an entire episode on chairs. Well, maybe not all about chairs, but who can blame university-wide recognized podcast hosts Matt and Darby if they get a little sidetracked?</description>
+<itunes:summary>You'll want to sit down for this: an entire episode on chairs. Well, maybe not all about chairs, but who can blame university-wide recognized podcast hosts Matt and Darby if they get a little sidetracked?</itunes:summary>
+<itunes:subtitle>If anybody finds out where this text shows up, email us!</itunes:subtitle>
+<guid isPermaLink="false">2003</guid>
+<enclosure url="https://github.com/FoolishTalkAndFrenzy/podcast/raw/master/episodes/S2E3.mp3" type="audio/mpeg" length="1"/>
+<itunes:duration>0:37:17</itunes:duration>
+<pubDate>Thu, 15 Oct 2020 00:00:00 CST</pubDate>
 </item>
 
 </channel>
