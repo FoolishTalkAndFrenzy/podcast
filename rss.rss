@@ -27,7 +27,7 @@
 <description>Two friends from the University of Minnesota Twin-Cities, Matt and Darby, host a podcast in which they converse at length on a wide variety of topics.</description>
 <itunes:summary>Two friends from the University of Minnesota Twin-Cities, Matt and Darby, host a podcast in which they converse at length on a wide variety of topics.</itunes:summary>
 <itunes:subtitle>Matt and Darby's vibes abound.</itunes:subtitle>
-<lastBuildDate>Thu, 22 Oct 2020 00:00:00 CST</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2020 10:00:00 CST</lastBuildDate>
 
 <item>
 <title>S0E2: We're Taking This Too Seriously (Pilot Episode)</title>
@@ -458,6 +458,17 @@ Stay safe and healthy! Tell us how you're spending your time now by emailing us 
 <enclosure url="https://github.com/FoolishTalkAndFrenzy/podcast/raw/master/episodes/S2E4.mp3" type="audio/mpeg" length="1"/>
 <itunes:duration>0:32:08</itunes:duration>
 <pubDate>Thu, 22 Oct 2020 00:00:00 CST</pubDate>
+</item>
+
+<item>
+<title>S2E5: Making Edits of the Foolish Talk and Frenzy Podcast Could be Your Basketball!</title>
+<description>In this episode, Matt and Darby discuss people including, but not limited to, Briteny Javelin, Scott, Hannah North Dakota, Katy the Platypus, Whitney Santa Fe, The Backstreet Bo(i/y)(s/z), Shaquille, Mitt's Key, Elliot, and an unnamed sponsor.</description>
+<itunes:summary>In this episode, Matt and Darby discuss people including, but not limited to, Briteny Javelin, Scott, Hannah North Dakota, Katy the Platypus, Whitney Santa Fe, The Backstreet Bo(i/y)(s/z), Shaquille, Mitt's Key, Elliot, and an unnamed sponsor.</itunes:summary>
+<itunes:subtitle>I'm proud of that description.</itunes:subtitle>
+<guid isPermaLink="false">2005</guid>
+<enclosure url="https://github.com/FoolishTalkAndFrenzy/podcast/raw/master/episodes/S2E5.mp3" type="audio/mpeg" length="1"/>
+<itunes:duration>0:34:57</itunes:duration>
+<pubDate>Thu, 19 Nov 2020 10:00:00 CST</pubDate>
 </item>
 
 </channel>
